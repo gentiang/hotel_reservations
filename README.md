@@ -6,3 +6,4 @@ The revenue data was split between several sheets in an Excel Workbook that had 
 
 Read more [here](https://medium.com/@gentiangsh/hotel-revenue-project-d49d36a4f96a).
 
+![dashboard](https://github.com/gentiang/hotel_reservations/blob/40305f92b57282a6aa52dd549ef892b29541fcaa/Portfolio%20Project_Hotel_Reservations_page-0001.jpg)
